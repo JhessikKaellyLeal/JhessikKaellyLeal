@@ -1,7 +1,7 @@
 - 👋 Olá,Eu sou @JhessikKaellyLeal
 - 👀 Gosto de assuntos relacionados a tecnologia e programação. 
-- 🎓 Sou tecnica em informática desde 2019, faço graduação em Análise e Desenvolvimento de Sistemas.
-- 🌱 Tenho conhecimento medio em Inglês, sei programar em java, PHP, CSS, HTML, XHTML, SQL e C++.
+- 🎓 Sou tecnica em informática desde 2019, e tenho graduação em Análise e Desenvolvimento de Sistemas.
+- Amo desenvolvimento mobile 
 - 📫 e-mail para contato jhessikkaelly.bezerraleal@gmail.com ...
 
 <!---
