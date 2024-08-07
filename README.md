@@ -1,12 +1,12 @@
 - 👋 Olá,Eu sou @JhessikKaellyLeal
-- 👀 Gosto de assuntos relacionados a Infraestrutura, Big Data e Programação Mobile. 
-- Tenho 1 ano de experiencia na Área de Suporte, Trabalhei por 3 meses como Programadora de Sistemas na empresa Medical Place.
-- Trabalho atualmente como Analista de Suporte no grupo Afya - Unitpac Araguaína
-- Meu objetivo é começar a trabalhar como desenvolvedoraa mobile ainda em 2023.
+- 👀 Gosto de assuntos relacionados a Back-end, Big Data e Programação Mobile. 
+- Tenho mais de 3 anos de experiencia na área da TI.
+- Trabalho atualmente como Instrutura de TI para o SENAI Araguaína Tocantins
 - 🎓Formação:
      - Tecnica em informática  (2019)
      - Graduação em Análise e Desenvolvimento de Sistemas (2022)
      - Pós Graduação em Desenvolvimento Full Stack (Cursando)
+     - Pós Graduação em Desenvolvimento Multiplataformas (Cursando)
 - 📫 e-mail para contato jhessikkaelly.bezerraleal@gmail.com 
 
 <!---
