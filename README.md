@@ -1,12 +1,11 @@
 - 👋 Olá,Eu sou @JhessikKaellyLeal
 - 👀 Gosto de assuntos relacionados a Back-end, Big Data e Programação Mobile. 
-- Tenho mais de 3 anos de experiencia na área da TI.
+- Tenho mais de 4 anos de experiencia na área da TI.
 - Trabalho atualmente como Instrutura de TI para o SENAI Araguaína Tocantins
 - 🎓Formação:
      - Tecnica em informática  (2019)
-     - Graduação em Análise e Desenvolvimento de Sistemas (2022)
-     - Pós Graduação em Desenvolvimento Full Stack (Cursando)
-     - Pós Graduação em Desenvolvimento Multiplataformas (Cursando)
+     - Graduação em Análise e Desenvolvimento de Sistemas (2023)
+     - Pós Graduação em Desenvolvimento Mobile (Cursando)
 - 📫 e-mail para contato jhessikkaelly.bezerraleal@gmail.com 
 
 <!---
